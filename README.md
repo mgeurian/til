@@ -1,2 +1,2 @@
-# til
-til - Today I Learned &lt;&lt;enter learned thing here>>
+# til - Today I Learned
+
