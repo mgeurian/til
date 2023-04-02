@@ -9,7 +9,9 @@ I'll be starting off with some things I already 'know'. But don't implement ofte
 ***
 
 ## Topics I've Learned
-- "__dirname" gives the directory name of the current module
+date| topic | definition |
+----| ----|----|
+4/1/2023 |"__dirname" | gives the directory name of the current module |
 - that
 
 ***
