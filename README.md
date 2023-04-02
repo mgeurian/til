@@ -4,10 +4,12 @@ Here is a collection of tidbits and items I've learned along my coding journey.
 
 This repo is inspired by the @jbrandchaud/til repo and the Learning in Public idea/movement.
 
+I'll be starting off with some things I already 'know'. But don't implement often in an effort to create a habit of updating this every day.
+
 ***
 
 ## Topics I've Learned
-- this
+- "__dirname" gives the directory name of the current module
 - that
 
 ***
