@@ -9,10 +9,10 @@ I'll be starting off with some things I already 'know'. But don't implement ofte
 ***
 
 ## Topics I've Learned
-date| topic | framework/??? | definition |
+date| topic | language/framework | breakdown |
 ----| ----|----| ----|
 4/1/2023 |"__dirname" | expressjs | gives the directory name of the current module |
-- that
+6/1/2023 |"quicksight" |  SQL | curly brackets {} denotes a variable being used within the sql query | 
 
 ***
 
