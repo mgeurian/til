@@ -13,6 +13,7 @@ date| topic | language/framework | breakdown |
 ----| ----|----| ----|
 4/1/2023 |"__dirname" | expressjs | gives the directory name of the current module |
 6/1/2023 |"quicksight" |  SQL | curly brackets {} denotes a variable being used within the sql query | 
+6/7/2023 |"SQL query" | SQL | aggregates are not allowed in the GROUP BY clause |
 
 ***
 
