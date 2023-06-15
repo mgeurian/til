@@ -14,6 +14,7 @@ date| topic | language/framework | breakdown |
 4/1/2023 |"__dirname" | expressjs | gives the directory name of the current module |
 6/1/2023 |"quicksight" |  SQL | curly brackets {} denotes a variable being used within the sql query | 
 6/7/2023 |"SQL query" | SQL | aggregates are not allowed in the GROUP BY clause |
+6/15/2023 |"SQL query" | SQL | you can use EXTRACT('week' FROM date_column) or DATE_PART('week', date_column) to get the week number from a date |
 
 ***
 
