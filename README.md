@@ -15,6 +15,7 @@ date| topic | language/framework | breakdown |
 6/1/2023 |"quicksight" |  SQL | curly brackets {} denotes a variable being used within the sql query | 
 6/7/2023 |"SQL query" | SQL | aggregates are not allowed in the GROUP BY clause |
 6/15/2023 |"SQL query" | SQL | you can use EXTRACT('week' FROM date_column) or DATE_PART('week', date_column) to get the week number from a date |
+6/27/2023 |"trunc/date_trunc" | SQL | differences: trunc works for both dates and floats, date_trunc works for dates only but can truncate specific date parts (day/month/week/etc) |
 
 ***
 
