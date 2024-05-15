@@ -16,7 +16,8 @@ date| topic | language/framework | breakdown |
 6/7/2023 |"SQL query" | SQL | aggregates are not allowed in the GROUP BY clause |
 6/15/2023 |"SQL query" | SQL | can use EXTRACT('week' FROM date_column) or DATE_PART('week', date_column) to get the week number from a date |
 6/27/2023 |"trunc/date_trunc" | SQL | differences: trunc works for both dates and floats, date_trunc works for dates only but can truncate specific date parts (day/month/week/etc) |
-7/26/2023 |"interval" | SQL | used to help calculate date and time values |
+7/26/2023 |"interval" | SQL | used to help calculate date and time values 
+5/15/2024 |"SQL query" | SQL |the split_part function is able to break apart a string by it's delimiter and return a selected subsection of the array 
 
 ***
 
